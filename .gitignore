@@ -11,6 +11,7 @@ app/uploads/
 *.vscode/
 
 # Datasets
+datasets/
 
 # Deep Learning
 *.pt
